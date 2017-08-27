@@ -661,7 +661,7 @@ public class Alphatronics {
     
         public static void main(String[] args) {
         
-        
+    /*                     Comment 665 666 667 lines to test and uncomment from 669 --> 691                     */     
         gui.setVisible(true);
         CardLayout card = (CardLayout)gui.jDesktopPane1.getLayout();
         card.show(gui.jDesktopPane1, "controllers");
